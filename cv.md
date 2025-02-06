@@ -13,3 +13,7 @@ TBD
 **HTML/CSS:** Intermediate
 **JavaScript:** Pre-Intermediate
 **Git:** Intermediate
+
+### Experience
+<!-- TBD -->
+Have been working as a Quality Assurance Engineer for 2 years in Yandex company. My responsibilities were: creating and executing task suites, checklists, etc.
