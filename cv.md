@@ -7,3 +7,9 @@
 
 ### About
 TBD
+
+### Qualifications
+**English:** B1
+**HTML/CSS:** Intermediate
+**JavaScript:** Pre-Intermediate
+**Git:** Intermediate
